@@ -1,6 +1,6 @@
-production_url: "http://fhcflx.github.io"
+# production_url: "http://fhcflx.github.io"
 
-base_path: "gpmcp"
+base_path: "/gpmcp"
 
 "theme-bootstrap-2" :
   "use" : "theme"
