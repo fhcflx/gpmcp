@@ -8,8 +8,8 @@ author :
   feedburner : feedname
 
 navigation :
-  - arquivo
-  - marcadores
-  - categorias
-  - páginas
-  - sobre
+  - archive
+  - tags
+  - categories
+  - pages
+  - about

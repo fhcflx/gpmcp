@@ -66,7 +66,7 @@ class Ruhoh
 
       if project_page?
         if !config['production_url'] || config['production_url'] == "http://sample.com"
-          opts['base_path'] = "/gpmcp/"
+          opts['base_path'] = "/gpmcp"
 
           Ruhoh::Friend.say { plain "base_path set to: #{ opts['base_path'] } for GitHub project page support" }
         else
