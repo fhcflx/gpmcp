@@ -6,14 +6,14 @@
     <link>http://fhcflx.github.io</link>
     <pubDate>2016-09-01</pubDate>
     <item>
-      <title>Arquivo</title>
-      <link>http://fhcflx.github.io/gpmcp/archive</link>
+      <title>Archive</title>
+      <link>http://fhcflx.github.io/archive</link>
       <description>
 </description>
     </item>
     <item>
-      <title>Categorias</title>
-      <link>http://fhcflx.github.io/gpmcp/categories</link>
+      <title>Categories</title>
+      <link>http://fhcflx.github.io/categories</link>
       <description>
 &lt;ul class="tag_box inline"&gt;
 &lt;/ul&gt;
@@ -21,7 +21,52 @@
 </description>
     </item>
     <item>
-      <title>Home</title>
+      <title>Index</title>
+      <link>http://fhcflx.github.io/</link>
+      <description>&lt;h1 id="toc_0"&gt;Projetos de pesquisa&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;O grupo de pesquisa iniciou com um escopo amplo que inclu&#xED;a doen&#xE7;as cardiovasculares, tromboembolismo, estresse oxidativo, c&#xE2;ncer e dor. Com o desenvolvimento natural das compet&#xEA;ncias dos integrantes do grupo e com o destaque das linhas de pesquisa mais bem sucedidas, o foco foi centralizado. A miss&#xE3;o do grupo, atualmente, envolve o estudo multidisciplinar dos aspectos farmac&#xEA;uticos, farmacol&#xF3;gicos, cl&#xED;nicos de interven&#xE7;&#xF5;es inovadoras voltadas para crian&#xE7;as e adolescentes com neoplasias, incluindo tumores vasculares benignos e anomalias vasculares.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id="toc_1"&gt;Linhas de pesquisa:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Atividade Antiangiog&#xEA;nica de Drogas no Tratamento de Doen&#xE7;as Neopl&#xE1;sicas&lt;/li&gt;
+&lt;li&gt;Avalia&#xE7;&#xE3;o das rea&#xE7;&#xF5;es adversas da quimioterapia em pacientes pedi&#xE1;tricos portadores de tumores cerebrais&lt;/li&gt;
+&lt;li&gt;Dor e Inflama&#xE7;&#xE3;o&lt;/li&gt;
+&lt;li&gt;Sistema Integrado de Armazenamento, Avalia&#xE7;&#xE3;o, e Controle de informa&#xE7;&#xF5;es sobre crian&#xE7;as com tumores Encef&#xE1;licos&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Pages</title>
+      <link>http://fhcflx.github.io/pages</link>
+      <description>
+&lt;ul&gt;
+  
+    &lt;li&gt;&lt;a href="/archive"&gt;Archive&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/categories"&gt;Categories&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/"&gt;Index&lt;/a&gt;&lt;/li&gt;
+  
+    &lt;li class="active"&gt;&lt;a href="/pages" class="active"&gt;Pages&lt;/a&gt;&lt;/li&gt;
+  
+  
+  
+    &lt;li&gt;&lt;a href="/"&gt;Principal&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/tags"&gt;Tags&lt;/a&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Principal</title>
       <link>http://fhcflx.github.io/</link>
       <description>## Hello World
 
@@ -33,54 +78,8 @@
 </description>
     </item>
     <item>
-      <title>Index</title>
-      <link>http://fhcflx.github.io/</link>
-      <description>&lt;h1 id="toc_0"&gt;Hello World =D&lt;/h1&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A profound quote.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id="toc_1"&gt;Fruits I like&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;apples&lt;/li&gt;
-&lt;li&gt;oranges&lt;/li&gt;
-&lt;li&gt;watermelons&lt;/li&gt;
-&lt;li&gt;tomatoes&lt;/li&gt;
-&lt;li&gt;avocados&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
-      <title>Páginas</title>
-      <link>http://fhcflx.github.io/gpmcp/pages</link>
-      <description>
-&lt;ul&gt;
-  
-    &lt;li&gt;&lt;a href="/gpmcp/archive"&gt;Arquivo&lt;/a&gt;&lt;/li&gt;
-  
-  
-    &lt;li&gt;&lt;a href="/gpmcp/categories"&gt;Categorias&lt;/a&gt;&lt;/li&gt;
-  
-  
-    &lt;li&gt;&lt;a href="/"&gt;Home&lt;/a&gt;&lt;/li&gt;
-  
-  
-    &lt;li&gt;&lt;a href="/"&gt;Index&lt;/a&gt;&lt;/li&gt;
-  
-    &lt;li class="active"&gt;&lt;a href="/gpmcp/pages" class="active"&gt;Páginas&lt;/a&gt;&lt;/li&gt;
-  
-  
-  
-    &lt;li&gt;&lt;a href="/gpmcp/tags"&gt;Marcadores&lt;/a&gt;&lt;/li&gt;
-  
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
-      <title>Marcadores</title>
-      <link>http://fhcflx.github.io/gpmcp/tags</link>
+      <title>Tags</title>
+      <link>http://fhcflx.github.io/tags</link>
       <description>
 &lt;ul class="tag_box inline"&gt;
 &lt;/ul&gt;
