@@ -3,17 +3,17 @@
   <channel>
     <title>Grupo de Pesquisa Multidisciplinar em Cancerologia Pedi&#xE1;trica</title>
     <description>Grupo de Pesquisa Multidisciplinar em Cancerologia Pedi&#xE1;trica</description>
-    <link>http://fhcflx.github.io</link>
+    <link/>
     <pubDate>2016-09-01</pubDate>
     <item>
       <title>Archive</title>
-      <link>http://fhcflx.github.io/archive</link>
+      <link>/archive</link>
       <description>
 </description>
     </item>
     <item>
       <title>Categories</title>
-      <link>http://fhcflx.github.io/categories</link>
+      <link>/categories</link>
       <description>
 &lt;ul class="tag_box inline"&gt;
 &lt;/ul&gt;
@@ -22,7 +22,7 @@
     </item>
     <item>
       <title>Home</title>
-      <link>http://fhcflx.github.io/</link>
+      <link>/</link>
       <description>## Hello World
 
 
@@ -34,7 +34,7 @@
     </item>
     <item>
       <title>Index</title>
-      <link>http://fhcflx.github.io/</link>
+      <link>/</link>
       <description>&lt;h1 id="toc_0"&gt;Hello World =D&lt;/h1&gt;
 
 &lt;blockquote&gt;
@@ -54,7 +54,7 @@
     </item>
     <item>
       <title>Pages</title>
-      <link>http://fhcflx.github.io/pages</link>
+      <link>/pages</link>
       <description>
 &lt;ul&gt;
   
@@ -80,7 +80,7 @@
     </item>
     <item>
       <title>Tags</title>
-      <link>http://fhcflx.github.io/tags</link>
+      <link>/tags</link>
       <description>
 &lt;ul class="tag_box inline"&gt;
 &lt;/ul&gt;
