@@ -1,2 +1,4 @@
+base_path: "/gpmcp"
+
 "theme-bootstrap-2" :
   "use" : "theme"
