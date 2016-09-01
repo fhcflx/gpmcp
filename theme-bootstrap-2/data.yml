@@ -1,5 +1,5 @@
 title : Grupo de Pesquisa Multidisciplinar em Cancerologia Pediátrica
-tagline: oncologia, farmacologia, farmácia, medicina 
+tagline: oncologia, farmacologia, farmácia, medicina
 author :
   name : Juvenia Fontenele & Francisco Felix
   email : heldercfelix@gmail.com
@@ -8,8 +8,8 @@ author :
   feedburner : feedname
 
 navigation :
-  - archive
-  - tags
-  - categories
-  - pages
-  - about
+  - arquivo
+  - marcadores
+  - categorias
+  - páginas
+  - sobre
