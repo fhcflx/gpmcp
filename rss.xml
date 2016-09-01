@@ -6,13 +6,13 @@
     <link>http://fhcflx.github.io</link>
     <pubDate>2016-09-01</pubDate>
     <item>
-      <title>Archive</title>
+      <title>Arquivo</title>
       <link>http://fhcflx.github.io/gpmcp/archive</link>
       <description>
 </description>
     </item>
     <item>
-      <title>Categories</title>
+      <title>Categorias</title>
       <link>http://fhcflx.github.io/gpmcp/categories</link>
       <description>
 &lt;ul class="tag_box inline"&gt;
@@ -53,15 +53,15 @@
 </description>
     </item>
     <item>
-      <title>Pages</title>
+      <title>Páginas</title>
       <link>http://fhcflx.github.io/gpmcp/pages</link>
       <description>
 &lt;ul&gt;
   
-    &lt;li&gt;&lt;a href="/gpmcp/archive"&gt;Archive&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/gpmcp/archive"&gt;Arquivo&lt;/a&gt;&lt;/li&gt;
   
   
-    &lt;li&gt;&lt;a href="/gpmcp/categories"&gt;Categories&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/gpmcp/categories"&gt;Categorias&lt;/a&gt;&lt;/li&gt;
   
   
     &lt;li&gt;&lt;a href="/"&gt;Home&lt;/a&gt;&lt;/li&gt;
@@ -69,17 +69,17 @@
   
     &lt;li&gt;&lt;a href="/"&gt;Index&lt;/a&gt;&lt;/li&gt;
   
-    &lt;li class="active"&gt;&lt;a href="/gpmcp/pages" class="active"&gt;Pages&lt;/a&gt;&lt;/li&gt;
+    &lt;li class="active"&gt;&lt;a href="/gpmcp/pages" class="active"&gt;Páginas&lt;/a&gt;&lt;/li&gt;
   
   
   
-    &lt;li&gt;&lt;a href="/gpmcp/tags"&gt;Tags&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/gpmcp/tags"&gt;Marcadores&lt;/a&gt;&lt;/li&gt;
   
 &lt;/ul&gt;
 </description>
     </item>
     <item>
-      <title>Tags</title>
+      <title>Marcadores</title>
       <link>http://fhcflx.github.io/gpmcp/tags</link>
       <description>
 &lt;ul class="tag_box inline"&gt;
