@@ -62,7 +62,7 @@ class Ruhoh
     def set_configuration(config)
       opts = {}
       opts['compile_as_root'] = true
-      opts['base_path'] = "/gpmcp"
+      opts['base_path'] = "/"
       
       if project_page?
         if !config['production_url'] || config['production_url'] == "http://sample.com"
