@@ -1,6 +1,6 @@
 require 'tmpdir'
 
-# Usage: 
+# Usage:
 # add to ruhoh-site/plugins/publish/github.rb
 # - Your GitHub remote must be setup properly but The command will try to walk you through it.
 # - You must have a clean working directory to publish to GitHub pages since the hook is actually triggered by commits.
@@ -63,14 +63,14 @@ class Ruhoh
       opts = {}
       opts['compile_as_root'] = true
       opts['base_path'] = "/"
-      
+
       if project_page?
         if !config['production_url'] || config['production_url'] == "http://sample.com"
-          opts['base_path'] = "/#{ repository_name }/"
+          opts['base_path'] = "/gpmcp/"
 
           Ruhoh::Friend.say { plain "base_path set to: #{ opts['base_path'] } for GitHub project page support" }
         else
-          Ruhoh::Friend.say { 
+          Ruhoh::Friend.say {
             plain "base_path set to: '#{ opts['base_path'] }' because config['production_url'] = '#{ config['production_url'] }'"
           }
         end
