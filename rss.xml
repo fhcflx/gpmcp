@@ -40,6 +40,18 @@
 </description>
     </item>
     <item>
+      <title>Index</title>
+      <link>/gpmcp</link>
+      <description>## Hello World
+
+
+&lt;div class="pagination"&gt;
+  &lt;ul&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    <item>
       <title>Pages</title>
       <link>/gpmcp/pages</link>
       <description>
@@ -53,28 +65,16 @@
   
     &lt;li&gt;&lt;a href="/gpmcp"&gt;Index&lt;/a&gt;&lt;/li&gt;
   
+  
+    &lt;li&gt;&lt;a href="/gpmcp"&gt;Index&lt;/a&gt;&lt;/li&gt;
+  
     &lt;li class="active"&gt;&lt;a href="/gpmcp/pages" class="active"&gt;Pages&lt;/a&gt;&lt;/li&gt;
   
-  
-  
-    &lt;li&gt;&lt;a href="/gpmcp"&gt;Principal&lt;/a&gt;&lt;/li&gt;
   
   
     &lt;li&gt;&lt;a href="/gpmcp/tags"&gt;Tags&lt;/a&gt;&lt;/li&gt;
   
 &lt;/ul&gt;
-</description>
-    </item>
-    <item>
-      <title>Principal</title>
-      <link>/gpmcp</link>
-      <description>## Hello World
-
-
-&lt;div class="pagination"&gt;
-  &lt;ul&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
 </description>
     </item>
     <item>
