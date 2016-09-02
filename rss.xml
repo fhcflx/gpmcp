@@ -21,6 +21,18 @@
 </description>
     </item>
     <item>
+      <title>Home</title>
+      <link>/gpmcp</link>
+      <description>## Hello World
+
+
+&lt;div class="pagination"&gt;
+  &lt;ul&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    <item>
       <title>Index</title>
       <link>/gpmcp</link>
       <description>&lt;h1 id="toc_0"&gt;Projetos de pesquisa&lt;/h1&gt;
@@ -40,18 +52,6 @@
 </description>
     </item>
     <item>
-      <title>Index</title>
-      <link>/gpmcp</link>
-      <description>## Hello World
-
-
-&lt;div class="pagination"&gt;
-  &lt;ul&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    <item>
       <title>Pages</title>
       <link>/gpmcp/pages</link>
       <description>
@@ -63,7 +63,7 @@
     &lt;li&gt;&lt;a href="/gpmcp/categories"&gt;Categories&lt;/a&gt;&lt;/li&gt;
   
   
-    &lt;li&gt;&lt;a href="/gpmcp"&gt;Index&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/gpmcp"&gt;Home&lt;/a&gt;&lt;/li&gt;
   
   
     &lt;li&gt;&lt;a href="/gpmcp"&gt;Index&lt;/a&gt;&lt;/li&gt;
