@@ -40,7 +40,7 @@
 </description>
     </item>
     <item>
-      <title>Grupo de Pesquisa Multidisciplinar em Cancerologia Pedi&#xE1;trica</title>
+      <title>Home</title>
       <link>/gpmcp</link>
       <description>
 &lt;div class="pagination"&gt;
@@ -64,7 +64,7 @@
     &lt;li&gt;&lt;a href="/gpmcp/gpmcp"&gt;GPMCP&lt;/a&gt;&lt;/li&gt;
   
   
-    &lt;li&gt;&lt;a href="/gpmcp"&gt;Grupo de Pesquisa Multidisciplinar em Cancerologia Pedi&#xE1;trica&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/gpmcp"&gt;Home&lt;/a&gt;&lt;/li&gt;
   
     &lt;li class="active"&gt;&lt;a href="/gpmcp/pages" class="active"&gt;Pages&lt;/a&gt;&lt;/li&gt;
   
