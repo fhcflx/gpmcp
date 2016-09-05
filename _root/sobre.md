@@ -1,9 +1,11 @@
 Página do Grupo de Pesquisa Multidisciplinar em Cancerologia Pediátrica, da Faculdade de Farmácia, Odontologia e Enfermagem, Universidade Federal do Ceará.
 
-Coordenadora:
+### Coordenadora:
+
  - Profa. Dra. Juvenia Bezerra Fontenele, Curso de Farmácia
 
-Pesquisadores:
+### Pesquisadores:
+
  - Francisco Hélder Cavalcante Félix
  - Glauce Socorro de Barros Viana
  - Jony Arrais Pinto Junior
