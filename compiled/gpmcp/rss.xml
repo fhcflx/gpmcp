@@ -6,9 +6,14 @@
     <link/>
     <pubDate>2016-09-05</pubDate>
     <item>
-      <title>Archive</title>
-      <link>/gpmcp/archive</link>
+      <title>Arquivo</title>
+      <link>/gpmcp/arquivo</link>
       <description>
+  &lt;h2&gt;2016&lt;/h2&gt;
+    &lt;h3&gt;September&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;span&gt;2016-09-05&lt;/span&gt; &amp;raquo; &lt;a href="/gpmcp/posts/gpmcp-grupo-de-pesquisa"&gt;GPMCP: Grupo de Pesquisa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
 </description>
     </item>
     <item>
@@ -23,9 +28,36 @@
     <item>
       <title>Home</title>
       <link>/gpmcp</link>
-      <description>
+      <description>&lt;div class="post"&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/gpmcp/posts/gpmcp-grupo-de-pesquisa"&gt;GPMCP: Grupo de Pesquisa&lt;/a&gt; &lt;span class="date"&gt;2016-09-05&lt;/span&gt;&lt;/h3&gt;
+
+  &lt;div class="summary"&gt;
+&lt;h1 id="toc_0"&gt;Projetos de pesquisa^M&lt;/h1&gt;
+
+&lt;p&gt;^M&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;O grupo de pesquisa iniciou com um escopo amplo que inclu&#xED;a doen&#xE7;as cardiovasculares, tromboembolismo, estresse oxidativo, c&#xE2;ncer e dor. Com o desenvolvimento natural das compet&#xEA;ncias dos integrantes do grupo e com o destaque das linhas de pesquisa mais bem sucedidas, o foco foi centralizado. A miss&#xE3;o do grupo, atualmente, envolve o estudo multidisciplinar dos aspectos farmac&#xEA;uticos, farmacol&#xF3;gicos, cl&#xED;nicos de interven&#xE7;&#xF5;es inovadoras voltadas para crian&#xE7;as e adolescentes com neoplasias, incluindo tumores vasculares benignos e anomalias vasculares.^M
+^M&lt;/p&gt;
+
+&lt;h3 id="toc_1"&gt;Linhas de pesquisa:^M&lt;/h3&gt;
+
+&lt;p&gt;^M
+- Atividade Antiangiog&#xEA;nica de Drogas no Tratamento de Doen&#xE7;as Neopl&#xE1;sicas^M
+- Avalia&#xE7;&#xE3;o das rea&#xE7;&#xF5;es adversas da quimioterapia em pacientes pedi&#xE1;tricos portadores de tumores cerebrais^M
+- Dor e Inflama&#xE7;&#xE3;o^M
+- Sistema Integrado de Armazenamento, Avalia&#xE7;&#xE3;o, e Controle de informa&#xE7;&#xF5;es sobre crian&#xE7;as com tumores Encef&#xE1;licos^M&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+
+  &lt;div class="more"&gt;
+    &lt;a href="/gpmcp/posts/gpmcp-grupo-de-pesquisa" class="btn btn-small"&gt;read more..&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;div class="pagination"&gt;
   &lt;ul&gt;
+      &lt;li class="active"&gt;&lt;a href="/gpmcp/posts/index/1"&gt;1&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/div&gt;
 </description>
@@ -36,7 +68,7 @@
       <description>
 &lt;ul&gt;
   
-    &lt;li&gt;&lt;a href="/gpmcp/archive"&gt;Archive&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/gpmcp/arquivo"&gt;Arquivo&lt;/a&gt;&lt;/li&gt;
   
   
     &lt;li&gt;&lt;a href="/gpmcp/categories"&gt;Categories&lt;/a&gt;&lt;/li&gt;
@@ -80,8 +112,18 @@
       <link>/gpmcp/tags</link>
       <description>
 &lt;ul class="tag_box inline"&gt;
+  &lt;li&gt;
+    &lt;a href="/gpmcp/tags#cancerologia pedi&#xE1;trica-ref"&gt;cancerologia pedi&#xE1;trica &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/gpmcp/tags#pesquisa-ref"&gt;pesquisa &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
+  &lt;h3 id="cancerologia pedi&#xE1;trica-ref"&gt;cancerologia pedi&#xE1;trica&lt;/h3&gt;
+    &lt;li&gt;&lt;a href="/gpmcp/posts/gpmcp-grupo-de-pesquisa"&gt;GPMCP: Grupo de Pesquisa&lt;/a&gt;&lt;/li&gt;
+  &lt;h3 id="pesquisa-ref"&gt;pesquisa&lt;/h3&gt;
+    &lt;li&gt;&lt;a href="/gpmcp/posts/gpmcp-grupo-de-pesquisa"&gt;GPMCP: Grupo de Pesquisa&lt;/a&gt;&lt;/li&gt;
  
 </description>
     </item>
