@@ -1,5 +1,5 @@
 ---
-title: 'GPMCP: Grupo de Pesquisa'
+title: 'Grupo de Pesquisa'
 date: '2016-09-05'
 description:
 tags: [cancerologia pediátrica, pesquisa]
