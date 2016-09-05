@@ -4,7 +4,7 @@
     <title>Grupo de Pesquisa Multidisciplinar em Cancerologia Pedi&#xE1;trica</title>
     <description>Grupo de Pesquisa Multidisciplinar em Cancerologia Pedi&#xE1;trica</description>
     <link/>
-    <pubDate>2016-09-02</pubDate>
+    <pubDate>2016-09-04</pubDate>
     <item>
       <title>Archive</title>
       <link>/gpmcp/archive</link>
@@ -21,11 +21,9 @@
 </description>
     </item>
     <item>
-      <title>Home</title>
+      <title>Grupo de Pesquisa Multidisciplinar em Cancerologia Pedi&#xE1;trica</title>
       <link>/gpmcp</link>
-      <description>## Hello World
-
-
+      <description>
 &lt;div class="pagination"&gt;
   &lt;ul&gt;
   &lt;/ul&gt;
@@ -63,7 +61,7 @@
     &lt;li&gt;&lt;a href="/gpmcp/categories"&gt;Categories&lt;/a&gt;&lt;/li&gt;
   
   
-    &lt;li&gt;&lt;a href="/gpmcp"&gt;Home&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/gpmcp"&gt;Grupo de Pesquisa Multidisciplinar em Cancerologia Pedi&#xE1;trica&lt;/a&gt;&lt;/li&gt;
   
   
     &lt;li&gt;&lt;a href="/gpmcp"&gt;Index&lt;/a&gt;&lt;/li&gt;
