@@ -61,8 +61,8 @@
 </description>
     </item>
     <item>
-      <title>Pa&#x301;ginas</title>
-      <link>/gpmcp/pa%CC%81ginas</link>
+      <title>Paginas</title>
+      <link>/gpmcp/paginas</link>
       <description>
 &lt;ul&gt;
   
@@ -74,7 +74,7 @@
   
     &lt;li&gt;&lt;a href="/gpmcp"&gt;Home&lt;/a&gt;&lt;/li&gt;
   
-    &lt;li class="active"&gt;&lt;a href="/gpmcp/pa%CC%81ginas" class="active"&gt;Pa&#x301;ginas&lt;/a&gt;&lt;/li&gt;
+    &lt;li class="active"&gt;&lt;a href="/gpmcp/paginas" class="active"&gt;Paginas&lt;/a&gt;&lt;/li&gt;
   
   
   
