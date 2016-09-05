@@ -26,41 +26,6 @@
 </description>
     </item>
     <item>
-      <title>Home</title>
-      <link>/gpmcp</link>
-      <description>&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/gpmcp/posts/gpmcp-grupo-de-pesquisa"&gt;GPMCP: Grupo de Pesquisa&lt;/a&gt; &lt;span class="date"&gt;2016-09-05&lt;/span&gt;&lt;/h3&gt;
-
-  &lt;div class="summary"&gt;
-&lt;h1 id="toc_0"&gt;Projetos de pesquisa&lt;/h1&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;O grupo de pesquisa iniciou com um escopo amplo que inclu&#xED;a doen&#xE7;as cardiovasculares, tromboembolismo, estresse oxidativo, c&#xE2;ncer e dor. Com o desenvolvimento natural das compet&#xEA;ncias dos integrantes do grupo e com o destaque das linhas de pesquisa mais bem sucedidas, o foco foi centralizado. A miss&#xE3;o do grupo, atualmente, envolve o estudo multidisciplinar dos aspectos farmac&#xEA;uticos, farmacol&#xF3;gicos, cl&#xED;nicos de interven&#xE7;&#xF5;es inovadoras voltadas para crian&#xE7;as e adolescentes com neoplasias, incluindo tumores vasculares benignos e anomalias vasculares.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id="toc_1"&gt;Linhas de pesquisa:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Atividade Antiangiog&#xEA;nica de Drogas no Tratamento de Doen&#xE7;as Neopl&#xE1;sicas&lt;/li&gt;
-&lt;li&gt;Avalia&#xE7;&#xE3;o das rea&#xE7;&#xF5;es adversas da quimioterapia em pacientes pedi&#xE1;tricos portadores de tumores cerebrais&lt;/li&gt;
-&lt;li&gt;Dor e Inflama&#xE7;&#xE3;o&lt;/li&gt;
-&lt;li&gt;Sistema Integrado de Armazenamento, Avalia&#xE7;&#xE3;o, e Controle de informa&#xE7;&#xF5;es sobre crian&#xE7;as com tumores Encef&#xE1;licos&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-  &lt;div class="more"&gt;
-    &lt;a href="/gpmcp/posts/gpmcp-grupo-de-pesquisa" class="btn btn-small"&gt;read more..&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class="pagination"&gt;
-  &lt;ul&gt;
-      &lt;li class="active"&gt;&lt;a href="/gpmcp/posts/index/1"&gt;1&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    <item>
       <title>Paginas</title>
       <link>/gpmcp/paginas</link>
       <description>
@@ -71,11 +36,11 @@
   
     &lt;li&gt;&lt;a href="/gpmcp/categorias"&gt;Categorias&lt;/a&gt;&lt;/li&gt;
   
-  
-    &lt;li&gt;&lt;a href="/gpmcp"&gt;Home&lt;/a&gt;&lt;/li&gt;
-  
     &lt;li class="active"&gt;&lt;a href="/gpmcp/paginas" class="active"&gt;Paginas&lt;/a&gt;&lt;/li&gt;
   
+  
+  
+    &lt;li&gt;&lt;a href="/gpmcp"&gt;Principal&lt;/a&gt;&lt;/li&gt;
   
   
     &lt;li&gt;&lt;a href="/gpmcp/sobre"&gt;Sobre&lt;/a&gt;&lt;/li&gt;
@@ -85,6 +50,11 @@
   
 &lt;/ul&gt;
 </description>
+    </item>
+    <item>
+      <title>Principal</title>
+      <link>/gpmcp</link>
+      <description>Grupo de Pesquisa Multidisciplinar em Cancerologia Pedi&#xE1;trica</description>
     </item>
     <item>
       <title>Sobre</title>
