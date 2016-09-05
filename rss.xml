@@ -21,18 +21,8 @@
 </description>
     </item>
     <item>
-      <title>Grupo de Pesquisa Multidisciplinar em Cancerologia Pedi&#xE1;trica</title>
-      <link>/gpmcp</link>
-      <description>
-&lt;div class="pagination"&gt;
-  &lt;ul&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    <item>
-      <title>Index</title>
-      <link>/gpmcp</link>
+      <title>GPMCP</title>
+      <link>/gpmcp/gpmcp</link>
       <description>&lt;h1 id="toc_0"&gt;Projetos de pesquisa&lt;/h1&gt;
 
 &lt;blockquote&gt;
@@ -50,6 +40,16 @@
 </description>
     </item>
     <item>
+      <title>Grupo de Pesquisa Multidisciplinar em Cancerologia Pedi&#xE1;trica</title>
+      <link>/gpmcp</link>
+      <description>
+&lt;div class="pagination"&gt;
+  &lt;ul&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    <item>
       <title>Pages</title>
       <link>/gpmcp/pages</link>
       <description>
@@ -61,10 +61,10 @@
     &lt;li&gt;&lt;a href="/gpmcp/categories"&gt;Categories&lt;/a&gt;&lt;/li&gt;
   
   
+    &lt;li&gt;&lt;a href="/gpmcp/gpmcp"&gt;GPMCP&lt;/a&gt;&lt;/li&gt;
+  
+  
     &lt;li&gt;&lt;a href="/gpmcp"&gt;Grupo de Pesquisa Multidisciplinar em Cancerologia Pedi&#xE1;trica&lt;/a&gt;&lt;/li&gt;
-  
-  
-    &lt;li&gt;&lt;a href="/gpmcp"&gt;Index&lt;/a&gt;&lt;/li&gt;
   
     &lt;li class="active"&gt;&lt;a href="/gpmcp/pages" class="active"&gt;Pages&lt;/a&gt;&lt;/li&gt;
   
