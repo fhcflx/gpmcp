@@ -8,7 +8,6 @@ Página do Grupo de Pesquisa Multidisciplinar em Cancerologia Pediátrica, da Fa
 
  - Francisco Hélder Cavalcante Félix
  - Glauce Socorro de Barros Viana
- - Jony Arrais Pinto Junior
  - Marta Maria de França Fonteles
  - Orlandira Leite de Araújo
 
