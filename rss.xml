@@ -1,10 +1,61 @@
 <?xml version="1.0"?>
 <rss version="2.0">
   <channel>
-    <title/>
-    <description/>
+    <title>Grupo de Pesquisa Multidisciplinar em Cancerologia Pedi&#xE1;trica</title>
+    <description>Grupo de Pesquisa Multidisciplinar em Cancerologia Pedi&#xE1;trica</description>
     <link/>
     <pubDate>2017-09-06</pubDate>
+    <item>
+      <title>Arquivo</title>
+      <link>/gpmcp/arquivo</link>
+      <description>
+  &lt;h2&gt;2016&lt;/h2&gt;
+    &lt;h3&gt;September&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;span&gt;2016-09-05&lt;/span&gt; &amp;raquo; &lt;a href="/gpmcp/posts/grupo-de-pesquisa"&gt;Grupo de Pesquisa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Categorias</title>
+      <link>/gpmcp/categorias</link>
+      <description>
+&lt;ul class="tag_box inline"&gt;
+&lt;/ul&gt;
+
+</description>
+    </item>
+    <item>
+      <title>Paginas</title>
+      <link>/gpmcp/paginas</link>
+      <description>
+&lt;ul&gt;
+  
+    &lt;li&gt;&lt;a href="/gpmcp/arquivo"&gt;Arquivo&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/gpmcp/categorias"&gt;Categorias&lt;/a&gt;&lt;/li&gt;
+  
+    &lt;li class="active"&gt;&lt;a href="/gpmcp/paginas" class="active"&gt;Paginas&lt;/a&gt;&lt;/li&gt;
+  
+  
+  
+    &lt;li&gt;&lt;a href="/gpmcp"&gt;Principal&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/gpmcp/sobre"&gt;Sobre&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/gpmcp/tags"&gt;Tags&lt;/a&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Principal</title>
+      <link>/gpmcp</link>
+      <description>P&#xE1;gina principal do site do GPMCP</description>
+    </item>
     <item>
       <title>Sobre</title>
       <link>/gpmcp/sobre</link>
@@ -29,6 +80,26 @@
 
 &lt;p&gt;&lt;img src="http://lattes.cnpq.br/image/layout_set_logo?img_id=14055&amp;amp;t=1472564423342" alt="diretorio"&gt;
 &lt;img src="http://lattes.cnpq.br/Portal-PlataformaLattes-theme/images/logo-cnpq.png" alt="cnpq"&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Tags</title>
+      <link>/gpmcp/tags</link>
+      <description>
+&lt;ul class="tag_box inline"&gt;
+  &lt;li&gt;
+    &lt;a href="/gpmcp/tags#cancerologia pedi&#xE1;trica-ref"&gt;cancerologia pedi&#xE1;trica &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/gpmcp/tags#pesquisa-ref"&gt;pesquisa &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;h3 id="cancerologia pedi&#xE1;trica-ref"&gt;cancerologia pedi&#xE1;trica&lt;/h3&gt;
+    &lt;li&gt;&lt;a href="/gpmcp/posts/grupo-de-pesquisa"&gt;Grupo de Pesquisa&lt;/a&gt;&lt;/li&gt;
+  &lt;h3 id="pesquisa-ref"&gt;pesquisa&lt;/h3&gt;
+    &lt;li&gt;&lt;a href="/gpmcp/posts/grupo-de-pesquisa"&gt;Grupo de Pesquisa&lt;/a&gt;&lt;/li&gt;
+ 
 </description>
     </item>
   </channel>
