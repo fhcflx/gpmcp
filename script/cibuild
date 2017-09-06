@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -e # halt script on error
+
+bundle exec ruhoh compile
+bundle exec htmlproofer ./compiled --disable-external --url-ignore "/#/"
