@@ -3,7 +3,6 @@ rvm:
 - 2.4.1
 
 before_script:
- - echo 'gem "html-proofer"'>>./Gemfile
  - bundle install
 
 # Assume bundler is being used, therefore
