@@ -7,12 +7,12 @@
     <pubDate>2017-09-06</pubDate>
     <item>
       <title/>
-      <link>/gpmcp/_script/cibuild</link>
+      <link>/gpmcp/script/cibuild</link>
       <description>#!/usr/bin/env bash
 set -e # halt script on error
 
 bundle exec ruhoh compile
-# bundle exec htmlproofer ./compiled --disable-external --url-ignore "/#/"
+bundle exec htmlproofer ./compiled --disable-external --url-ignore "/#/"
 </description>
     </item>
   </channel>
