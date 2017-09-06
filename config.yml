@@ -1,7 +1,6 @@
 # production_url: "http://fhcflx.github.io"
 
 base_path: "/gpmcp"
-exclude: [_script]
 
 "theme-bootstrap-2" :
   use : "theme"
