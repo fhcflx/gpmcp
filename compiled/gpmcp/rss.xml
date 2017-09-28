@@ -3,7 +3,7 @@
   <channel>
     <title>Grupo de Pesquisa Multidisciplinar em Cancerologia Pedi&#xE1;trica</title>
     <description>Grupo de Pesquisa Multidisciplinar em Cancerologia Pedi&#xE1;trica</description>
-    <link>http://fhcflx.github.io/gpmcp</link>
+    <link>http://fhcflx.github.io</link>
     <pubDate>2017-09-27</pubDate>
     <item>
       <title>Arquivo</title>
@@ -12,7 +12,7 @@
   &lt;h2&gt;2016&lt;/h2&gt;
     &lt;h3&gt;September&lt;/h3&gt;
     &lt;ul&gt;
-      &lt;li&gt;&lt;span&gt;2016-09-05&lt;/span&gt; &amp;raquo; &lt;a href="/posts/grupo-de-pesquisa"&gt;Grupo de Pesquisa&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2016-09-05&lt;/span&gt; &amp;raquo; &lt;a href="/gpmcp/posts/grupo-de-pesquisa"&gt;Grupo de Pesquisa&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
 </description>
     </item>
@@ -31,29 +31,29 @@
       <description>
 &lt;ul&gt;
   
-    &lt;li&gt;&lt;a href="/arquivo"&gt;Arquivo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/gpmcp/arquivo"&gt;Arquivo&lt;/a&gt;&lt;/li&gt;
   
   
-    &lt;li&gt;&lt;a href="/categorias"&gt;Categorias&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/gpmcp/categorias"&gt;Categorias&lt;/a&gt;&lt;/li&gt;
   
-    &lt;li class="active"&gt;&lt;a href="/paginas" class="active"&gt;Paginas&lt;/a&gt;&lt;/li&gt;
-  
-  
-  
-    &lt;li&gt;&lt;a href="/"&gt;Principal&lt;/a&gt;&lt;/li&gt;
+    &lt;li class="active"&gt;&lt;a href="/gpmcp/paginas" class="active"&gt;Paginas&lt;/a&gt;&lt;/li&gt;
   
   
-    &lt;li&gt;&lt;a href="/sobre"&gt;Sobre&lt;/a&gt;&lt;/li&gt;
+  
+    &lt;li&gt;&lt;a href="/gpmcp"&gt;Principal&lt;/a&gt;&lt;/li&gt;
   
   
-    &lt;li&gt;&lt;a href="/tags"&gt;Tags&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/gpmcp/sobre"&gt;Sobre&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/gpmcp/tags"&gt;Tags&lt;/a&gt;&lt;/li&gt;
   
 &lt;/ul&gt;
 </description>
     </item>
     <item>
       <title>Principal</title>
-      <link>http://fhcflx.github.io/gpmcp/</link>
+      <link>http://fhcflx.github.io/gpmcp</link>
       <description>P&#xE1;gina principal do site do GPMCP</description>
     </item>
     <item>
@@ -88,17 +88,17 @@
       <description>
 &lt;ul class="tag_box inline"&gt;
   &lt;li&gt;
-    &lt;a href="/tags#cancerologia pedi&#xE1;trica-ref"&gt;cancerologia pedi&#xE1;trica &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/gpmcp/tags#cancerologia pedi&#xE1;trica-ref"&gt;cancerologia pedi&#xE1;trica &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#pesquisa-ref"&gt;pesquisa &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/gpmcp/tags#pesquisa-ref"&gt;pesquisa &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
   &lt;h3 id="cancerologia pedi&#xE1;trica-ref"&gt;cancerologia pedi&#xE1;trica&lt;/h3&gt;
-    &lt;li&gt;&lt;a href="/posts/grupo-de-pesquisa"&gt;Grupo de Pesquisa&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/gpmcp/posts/grupo-de-pesquisa"&gt;Grupo de Pesquisa&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="pesquisa-ref"&gt;pesquisa&lt;/h3&gt;
-    &lt;li&gt;&lt;a href="/posts/grupo-de-pesquisa"&gt;Grupo de Pesquisa&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/gpmcp/posts/grupo-de-pesquisa"&gt;Grupo de Pesquisa&lt;/a&gt;&lt;/li&gt;
  
 </description>
     </item>

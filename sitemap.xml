@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://fhcflx.github.io/gpmcp/arquivo</loc>
+    <loc>http://fhcflx.github.io/arquivo</loc>
     <lastmod>2017-09-27</lastmod>
     <priority>0.5</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://fhcflx.github.io/gpmcp/categorias</loc>
+    <loc>http://fhcflx.github.io/categorias</loc>
     <lastmod>2017-09-27</lastmod>
     <priority>0.5</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://fhcflx.github.io/gpmcp/paginas</loc>
+    <loc>http://fhcflx.github.io/paginas</loc>
     <lastmod>2017-09-27</lastmod>
     <priority>0.5</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://fhcflx.github.io/gpmcp/</loc>
+    <loc>http://fhcflx.github.io/</loc>
     <lastmod>2017-09-27</lastmod>
     <priority>0.5</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://fhcflx.github.io/gpmcp/sobre</loc>
+    <loc>http://fhcflx.github.io/sobre</loc>
     <lastmod>2017-09-27</lastmod>
     <priority>0.5</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://fhcflx.github.io/gpmcp/tags</loc>
+    <loc>http://fhcflx.github.io/tags</loc>
     <lastmod>2017-09-27</lastmod>
     <priority>0.5</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://fhcflx.github.io/gpmcp/posts/grupo-de-pesquisa</loc>
+    <loc>http://fhcflx.github.io/posts/grupo-de-pesquisa</loc>
     <lastmod>2017-09-27</lastmod>
     <priority>0.5</priority>
     <changefreq>daily</changefreq>
