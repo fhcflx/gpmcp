@@ -1,3 +1,6 @@
 [submodule "theme-bootstrap-2"]
 	path = theme-bootstrap-2
 	url = https://github.com/fhcflx/theme-bootstrap-2.git
+[submodule "plugins/sitemap"]
+	path = plugins/sitemap
+	url = https://github.com/fhcflx/ruhoh-sitemap.git
