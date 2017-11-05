@@ -9,12 +9,7 @@ before_script:
 # the `install` step will run `bundle install` by default.
 script:
  - bundle exec ruhoh compile
-
-# branch whitelist, only for GitHub Pages
-# branches:
-#  only:
-#  - gh-pages     # test the gh-pages branch
-#  - /pages-(.*)/ # test every branch which starts with "pages-"
+ - bundle exec ruhoh publish github
 
 env:
   global:
