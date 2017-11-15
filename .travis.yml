@@ -2,16 +2,15 @@ sudo: false
 branches:
   only:
   - master
-language: ruby
-  rvm:
-    - 2.4.1
+language: ruby rvm:
+  - 2.4.1
 before_install:
-- openssl aes-256-cbc -K $encrypted_51d73603b764_key -iv $encrypted_51d73603b764_iv -in publish-key.enc -out publish-key -d -out ~/.ssh/publish-key -d
-- chmod u=rw,og= ~/.ssh/publish-key
-- echo "Host github.com" >> ~/.ssh/config
-- echo "  IdentityFile ~/.ssh/publish-key" >> ~/.ssh/config
-- git remote set-url origin git@github.com:fhcflx/gpmcp.git
-- git fetch origin -f gh-pages:gh-pages
+ - openssl aes-256-cbc -K $encrypted_51d73603b764_key -iv $encrypted_51d73603b764_iv -in publish-key.enc -out publish-key -d -out ~/.ssh/publish-key -d
+ - chmod u=rw,og= ~/.ssh/publish-key
+ - echo "Host github.com" >> ~/.ssh/config
+ - echo "  IdentityFile ~/.ssh/publish-key" >> ~/.ssh/config
+ - git remote set-url origin git@github.com:fhcflx/gpmcp.git
+ - git fetch origin -f gh-pages:gh-pages
 install:
  - bundle install
 script:
